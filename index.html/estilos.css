@@ -1,0 +1,31 @@
+body{ 
+    background-image: url(pp.jpg);
+    background-size: 100%;
+    background-color: rgb(4,203,243);
+    background-image: linear-gradient(rgb(67,86,98),rgb(rgb(0,255,85));
+
+}
+h1{
+    color: #a17f7f;
+}
+div{
+    background-color: rgba(53,52,52,0.418);
+    padding: 100 px;
+    border: 5px solid #e6dddd;
+}
+
+h2{
+    color: #1111da;
+}
+
+h3{
+    color: #09d9f5;
+}
+
+p{
+    color: #fdfcfc;
+    width: 1000px;
+    background-color: rgba(10,182,240,0.637)
+    border : 2px solid rgb(4,203,243)
+    border-radius: 10px;
+}
